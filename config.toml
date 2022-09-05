@@ -1,0 +1,3 @@
+baseURL = 'https://luarraul.github.io/luarraul.github.io'
+languageCode = 'en-us'
+title = 'My New Hugo Site'

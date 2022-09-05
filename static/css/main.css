@@ -1,0 +1,23 @@
+h2 {
+  color: red;
+}
+
+body {
+  min-height: 100%;
+}
+
+.container {
+  height: 100%;
+  padding: 0;
+  margin: 0;
+}
+
+.row {
+  height: 100%;
+  padding: 0;
+  margin: 0;
+}
+
+.col {
+  text-align: center;
+}
