@@ -7,7 +7,7 @@
 
 colorScheme = "congo"
 defaultAppearance = "dark" # valid options: light or dark
-autoSwitchAppearance = false
+autoSwitchAppearance = true
 
 enableSearch = true
 enableCodeCopy = true
@@ -21,7 +21,7 @@ enableCodeCopy = true
 [footer]
   showCopyright = false
   showThemeAttribution = false
-  showAppearanceSwitcher = false
+  showAppearanceSwitcher = true
   showScrollToTop = true
 
 [homepage]
