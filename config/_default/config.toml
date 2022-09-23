@@ -5,6 +5,8 @@ theme = "congo"
 baseURL = "https://luarraul.github.io/luarraul.github.io"
 defaultContentLanguage = "en"
 
+googleAnalytics = "G-MYDQB82L38"
+
 enableRobotsTXT = true
 paginate = 10
 summaryLength = 0
@@ -12,4 +14,3 @@ summaryLength = 0
 [outputs]
   home = ["HTML", "RSS", "JSON"]
 
-googleAnalytics = "G-MYDQB82L38"
